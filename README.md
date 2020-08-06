@@ -15,13 +15,13 @@ Tecnologias utilizadas para o desenvolvimento da aplicação.
 ### 💻 Executar projeto WEB
 
 ```bash
-# Go to web folder
+# Acesse a pasta web
 $ cd Proffy/web
 
-# Install Dependencies
+# Instale as dependências
 $ yarn install
 
-# Run Aplication
+# Execute a aplicação
 $ yarn start
 ```
 Vá para http://localhost:3000/ para ver o resultado.
