@@ -12,7 +12,7 @@ Tecnologias utilizadas para o desenvolvimento da aplicação.
   <li><a href="https://expressjs.com/en/api.html#express">Express</a></li>
 </ul>
 
-### 💻 Executar projeto WEB
+### 💻 Como executar o projeto WEB
 
 ```bash
 # Acesse a pasta web
