@@ -1,4 +1,19 @@
-# Proffy
+<h2 align="center">
+    <img alt="Proffy" src=".github/logo.svg" height="100px" />
+    <br>Next Level Week #2<br/>
+</h2>
+
+
+ 
+ ## :bookmark: Sobre
+
+🚀 O **Proffy** é uma aplicação Web e Mobile desenvolvida para auxiliar na conexão entre os alunos e os professores. Está aplicação oferece aos professores a possibilidade de registrar aulas, podendo adicionar informações como a disciplina, o custo e horário e aos alunos a possibilidade de buscar pelas aulas cadastradas.
+  
+Essa aplicação foi desenvolvida durante a **Next Level Week #2** projeto da [Rocketseat](https://rocketseat.com.br/), entre os dia 03/08/2020 e 09/08/2020, por conta disso foi feita essa homenagem ao dia Nacional dos Profissionais da Educação, que é comemorado em 06 de agosto.
+
+<p align="center">
+  <img alt="design do projeto" width="650px" src="./.github/design.png" />
+<p>
  
  ## :rocket: Tecnologias
 Tecnologias utilizadas para o desenvolvimento da aplicação.
