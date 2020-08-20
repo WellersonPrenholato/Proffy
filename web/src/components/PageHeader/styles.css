@@ -40,6 +40,12 @@
     color: var(--color-title-in-primary);
 }
 
+.page-header .header-content p {
+    font: 700 3.6rem Archivo;
+    line-height: 4.2rem;
+    color: var(--color-title-in-primary);
+}
+
 @media (min-width: 700px){
     .page-header{
         height: 300px;
